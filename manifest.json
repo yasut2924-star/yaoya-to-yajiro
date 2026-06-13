@@ -1,0 +1,22 @@
+{
+  "name": "やおやとやじろう",
+  "short_name": "やおやとやじろう",
+  "description": "食事制限を優しく、ゆるく、絶対に罪悪感なく継続するための猫アプリアプリ",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#FAF6F0",
+  "theme_color": "#FAF6F0",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
